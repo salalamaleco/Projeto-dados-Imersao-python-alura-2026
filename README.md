@@ -45,6 +45,10 @@ Os resultados são apresentados em um **dashboard interativo** desenvolvido com 
 
 ---
 
+🔗 Acesse o dashboard online: [Meu Projeto no Streamlit](https://projeto-dados-imersao-python-alura-2026-etwxr9zziqu4rufj2yxn9z.streamlit.app/)
+
+---
+
 ## ▶️ Como executar o projeto localmente
 
 1. Clone o repositório:
