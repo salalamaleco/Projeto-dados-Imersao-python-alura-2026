@@ -1,6 +1,8 @@
 # Projeto-dados-Imersao-python-alura-2026
 # 📊 Análise Salarial na Área de Tecnologia
 
+🔗 Acesse o dashboard online: [Meu Projeto no Streamlit](https://projeto-dados-imersao-python-alura-2026-etwxr9zziqu4rufj2yxn9z.streamlit.app/)
+
 Este projeto tem como objetivo analisar padrões salariais na área de tecnologia a partir de dados públicos, buscando responder principalmente **quais fatores mais influenciam o salário**.
 
 O foco da análise não é prever salários, mas **entender tendências globais** considerando:
