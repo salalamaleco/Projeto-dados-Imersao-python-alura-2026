@@ -51,4 +51,17 @@ Os resultados são apresentados em um **dashboard interativo** desenvolvido com 
 ```bash
 git clone <url-do-repositorio>
 cd <nome-do-repositorio>
-
+```
+2. Crie e ative um ambiente virtual:
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+3. Instale as dependências:
+```bash
+Instale as dependências
+```
+4.Execute o aplicativo:
+```bash
+streamlit run app.py
+```
